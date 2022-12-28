@@ -1,5 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+अर्पण+(Arpan)+ सैनी+(saini)....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<h1 align="center">Hi, I'm अर्पण(Arpan) सैनी(saini)</h1>
+
 <h3 align="center">A Frontend designer . Also trying Frontend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-kumar-saini&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-kumar-saini" /> </p>
