@@ -22,8 +22,8 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://instagram.com/arpan_kumar_saini" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="arpan_kumar_saini" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arpansaini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpan_kumar_saini" height="30" width="40" /></a>
+<a href="https://instagram.com/arpan_kumar_saini" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="arpan_kumar_saini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arpansaini/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="arpan_kumar_saini" height="30" width="40" /></a>
  </p>
 
 
