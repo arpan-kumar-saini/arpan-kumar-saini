@@ -1,9 +1,7 @@
 <img width='1000' hight='100' src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!👋,I'm;Arpan Saini;Nice+to+meet+you!&center=true&size=30">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=60&duration=3000&pause=1000&color=65F7B6&center=true&vCenter=true&random=false&width=697&height=100&lines=Hi!%F0%9F%91%8B%2CI'm;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Arpan+Saini+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate frontend developer from India. Also trying Backend development.</h3>
