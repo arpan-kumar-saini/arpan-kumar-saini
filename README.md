@@ -1,4 +1,4 @@
-<img width='1200' src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<img width='1000' hight='100' src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,8 @@
 </h1>
 
 <h3 align="center">A passionate frontend developer from India. Also trying Backend development.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
+<img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-kumar-saini&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-kumar-saini" /> </p>
 
