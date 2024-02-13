@@ -1,4 +1,4 @@
-<img width='1000' hight='100' src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
+<img width='1000' hight='100' src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
