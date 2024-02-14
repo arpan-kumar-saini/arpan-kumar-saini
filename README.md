@@ -44,7 +44,7 @@
 
 
 
-![snake gif](https://github.com/arpan-kumar-saini/arpan-kumar-saini/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
