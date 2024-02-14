@@ -44,7 +44,11 @@
 
 
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/arpan-kumar-saini/arpan-kumar-saini/output/snake.svg" alt="Snake animation" />
+
+
 
 
 
