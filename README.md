@@ -120,7 +120,7 @@
 
 
 <hr>
-<h3 align="center"> <img height="50px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">Connect with me:</h3>
+<h3 align="center"> <img width="35px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">Connect with me:</h3>
 <p align="center" gap='2'>
 <a href="https://linkedin.com/in/arpansaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpansaini" height="30" width="40" /></a>
 <a href="https://instagram.com/arpan_kumar_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpan_kumar_saini" height="30" width="40" /></a>
