@@ -44,9 +44,7 @@
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arpan-kumar-saini/arpan-kumar-saini/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/arpan-kumar-saini/arpan-kumar-saini/blob/output/github-contribution-grid-snake.svg)
 
 
 
