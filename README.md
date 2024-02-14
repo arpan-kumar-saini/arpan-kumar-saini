@@ -6,7 +6,7 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> A passionate frontend developer from India. Also trying Backend development.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> </h3>
 
-<img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+<img align="right" alt="coding" width="350" src="arpan_sitting.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-kumar-saini&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-kumar-saini" /> </p>
 
