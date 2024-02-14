@@ -35,7 +35,7 @@
    <th>Java</th>
  </tr>
  <tr>
-   <td colspan="6">
+   <td colspan="6" align="center">
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    </td>
    <td>
@@ -100,13 +100,13 @@
    <th colspan="3">Figma</th>   
  </tr>
  <tr>
-   <td colspan="3">
+   <td colspan="3" align="center">
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
    </td>
-   <td colspan="3" >
+   <td colspan="3" align="center" >
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    </td>   
-   <td colspan="3">       
+   <td colspan="3" align="center" >       
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
    </td>
  </tr>
