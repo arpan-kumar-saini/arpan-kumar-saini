@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=60&duration=3000&pause=1000&color=65F7B6&center=true&vCenter=true&random=false&width=697&height=100&lines=Hi!%F0%9F%91%8B%2CI'm;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Arpan+Saini+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate frontend developer from India. Also trying Backend development.</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A passionate frontend developer from India. Also trying Backend development.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
 
