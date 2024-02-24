@@ -32,7 +32,7 @@
    <th colspan="6">C language</th>
    <th>Python</th>  
    <th >C++</th>
-   <th>Java</th>
+   <th colspan="2">Java</th>
  </tr>
  <tr>
    <td colspan="6" align="center">
@@ -43,13 +43,14 @@
    </td>
   
    <td></td>
-   <td>    
+   <td colspan="2" align='center' >    
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
    </td>
  </tr>
  <tr>
   <th>HTML</th>
   <th>CSS</th>
+  <th>SCSS</th>
   <th>BootStrap</th>
   
   <th>Tailwind CSS</th>
@@ -65,6 +66,10 @@
   </td>
   <td>   
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+   </a> 
+  </td>
+    <td>   
+   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://rstudio.github.io/sass/reference/figures/logo.svg" alt="css3" width="40" height="40"/> 
    </a> 
   </td>
   <td>
@@ -97,7 +102,7 @@
   <tr>
    <th colspan="3">Linux</th>
    <th colspan="3">Git</th>
-   <th colspan="3">Figma</th>   
+   <th colspan="4">Figma</th>   
  </tr>
  <tr>
    <td colspan="3" align="center">
@@ -106,7 +111,7 @@
    <td colspan="3" align="center" >
      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
    </td>   
-   <td colspan="3" align="center" >       
+   <td colspan="4" align="center" >       
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
    </td>
  </tr>
