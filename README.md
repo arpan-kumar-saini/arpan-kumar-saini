@@ -29,17 +29,21 @@
 <h3 align="center">⚙️ Languages and Tools:</h3>
 <table align="center" >
  <tr>
-   <th colspan="6">C language</th>
+   <th colspan="5">C language</th>
    <th>Python</th>  
+   <th>R language</th>  
    <th >C++</th>
    <th colspan="2">Java</th>
  </tr>
  <tr>
-   <td colspan="6" align="center">
+   <td colspan="5" align="center">
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
    </td>
    <td>
      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   </td>
+    <td  align="center">
+     <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://w1.pngwing.com/pngs/451/367/png-transparent-pdf-logo-r-cran-statgraphics-rnn-programming-language-data-analysis-cairo.png" alt="R" width="40" height="40"/> </a>
    </td>
   
    <td></td>
